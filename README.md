@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Eric Penn
+# 👋 Hi, I’m Waleed Riaz
 
 💾 **Senior Data Engineer**  
-📧 **Email:** [ericpenn.dev@gmail.com](mailto:ericpenn.dev@gmail.com)
+📧 **Email:** [waleedriaz.engineer@gmail.com](mailto:waleedriaz.engineer@gmail.com)
 
 ---
 
 ## 🧠 About Me
 
-I am a **Senior Data Engineer** specializing in building **scalable data pipelines, ETL workflows, and cloud-based data platforms**. I have hands-on experience in **real-time data processing, data warehousing, and analytics pipelines** that support business intelligence and operational insights.  
+I am a **Lead Data Engineer** specializing in building **scalable data pipelines, ETL workflows, and cloud-based data platforms**. I have hands-on experience in **real-time data processing, data warehousing, and analytics pipelines** that support business intelligence and operational insights.  
 
 My work focuses on designing **production-ready, reliable, and maintainable data systems**.
 
