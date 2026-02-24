@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Waleed Riaz
+# 👋 Hi, I’m Zak Moore
 
 💾 **Senior Data Engineer**  
-📧 **Email:** [waleedriaz.engineer@gmail.com](mailto:waleedriaz.engineer@gmail.com)
+📧 **Email:** [moorezak92@gmail.com](mailto:moorezak92@gmail.com)
 
 ---
 
